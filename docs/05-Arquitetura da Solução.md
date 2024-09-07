@@ -1,19 +1,27 @@
 # Arquitetura da Solução
 
-<span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>
+Nesta seção são apresentados os detalhes técnicos da solução criada pela equipe, tratando da Arquitetura da Solução, as estruturas de dados e as telas já implementadas.
 
-Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
+## Diagrama de Componentes
 
-![Arquitetura da Solução](img/arch-back.JPG)
+Os componentes que fazem parte da solução são apresentados na Figura que se segue.
+
+<img src"img/arqSolucao.jpg" width="500">
+
+A solução implementada conta com os seguintes módulos:
+* Tela inicial: Interface básica do sistema
+* Páginas Web: Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
+* Local Storage: Armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles:
+* Criar Lembrete: Seção para programar os horários de alimentação.
+* Cadastro: Seção para cadastrar um ou mais cães.
+* Histórico: Registro de alimentação.
+* Conectar Dispositivos: Seção para compartilhar com outros usuários o status e a tarefa de alimentação.
 
 ## Diagrama de Classes
 
-O diagrama de classes ilustra graficamente como será a estrutura do software, e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que executarão na memória.
+O diagrama de classes é um diagrama estrutural e define uma estrutura estática de relacionamento entre as classes. Seguem as principais classes desenvolvidas neste projeto.
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Classes”.
-
-> - [Diagramas de Classes - Documentação da IBM](https://www.ibm.com/docs/pt-br/rational-soft-arch/9.6.1?topic=diagrams-class)
-> - [O que é um diagrama de classe UML? | Lucidchart](https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-classe-uml)
+<img src"img/diagrama Classes - 001.jpg" width="500">
 
 ## Modelo ER
 
