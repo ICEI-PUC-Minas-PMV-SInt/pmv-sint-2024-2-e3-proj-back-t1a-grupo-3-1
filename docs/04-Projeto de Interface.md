@@ -10,6 +10,8 @@ O diagrama da figura 1.1, faz uma breve apresentação das principais vias de us
 -->IMAGE GOES HERE<--
 ![Exemplo de Diagrama de Fluxo](img/Diagrama de Fluxo.jpg)
 
+<img src="img/Diagrama de Fluxo.jpg">
+
 As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas de Fluxo”.
 
 > **Links Úteis**:
