@@ -29,10 +29,10 @@ A tela é composta por:
 
 ## Tela - Criar Perfil
 
-<img src="img/Tela - 1.3.jpg">
-<img src="img/Tela - 1.4.jpg">
-<img src="img/Tela - 1.5.jpg">
+<img src="img/Tela - 1.3.jpg" width="350">
+<img src="img/Tela - 1.4.jpg" width="350">
+<img src="img/Tela - 1.5.jpg" width="350">
 
 ## Tela - Histórico
 
-<img src="img/Tela - 1.6.jpg">
+<img src="img/Tela - 1.6.jpg" width="350">
