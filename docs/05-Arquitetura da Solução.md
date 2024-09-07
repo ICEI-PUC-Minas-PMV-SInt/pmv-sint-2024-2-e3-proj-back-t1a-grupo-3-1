@@ -21,7 +21,7 @@ A solução implementada conta com os seguintes módulos:
 
 O diagrama de classes é um diagrama estrutural e define uma estrutura estática de relacionamento entre as classes. Seguem as principais classes desenvolvidas neste projeto.
 
-<img src="img/diagrama Classes - 001.jpg" width="500">
+<img src="img/diagramaClasses 001.jpg" width="500">
 
 ## Modelo ER
 
