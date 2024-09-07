@@ -55,11 +55,7 @@ Apresente também uma figura explicando como as tecnologias estão relacionadas 
 
 ## Hospedagem
 
-Explique como a hospedagem e o lançamento da plataforma foi feita.
-
-> **Links Úteis**:
->
-> - [Website com GitHub Pages](https://pages.github.com/)
-> - [Programação colaborativa com Repl.it](https://repl.it/)
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Publicando Seu Site No Heroku](http://pythonclub.com.br/publicando-seu-hello-world-no-heroku.html)
+O site utilizará a plataforma git pages como ambiente de hospedagem do site do projeto. O site é mantido no ambiente da URL:
+https://glauberlanna.github.io/ProjetoEixoIII/index.html
+A publicação do site no git pages é feita por meio de uma submissão do projeto (push) via git para o repositório remoto que se encontra no endereço:
+https://github.com/glauberlanna/ProjetoEixoIII.git
