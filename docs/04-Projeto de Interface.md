@@ -8,7 +8,7 @@ O projeto da interface da aplicação tem como objetivos principais, uma apresen
 O diagrama da figura 1.1, faz uma breve apresentação das principais vias de uso da aplicação, e as principais escolhas. Cada uma destas telas serão melhor detalhadas nos próximos tópicos.
 
 -->IMAGE GOES HERE<--
-![Exemplo de Diagrama de Fluxo](img/diagramafluxo2.jpg)
+![Exemplo de Diagrama de Fluxo](img/Diagrama de Fluxo.jpg)
 
 As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas de Fluxo”.
 
