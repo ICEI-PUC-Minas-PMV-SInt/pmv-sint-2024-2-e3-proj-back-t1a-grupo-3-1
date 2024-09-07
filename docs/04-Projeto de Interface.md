@@ -25,7 +25,7 @@ A tela é composta por:
 * Link para detalhamento do dia ou histórico.
 * Botão check, que torna-se clicável apenas no espaço de tempo programado pelo usuário.
 
-<img src="img/Tela - 1.22.jpg">
+<img src="img/Tela - 1.22.jpg" width="350">
 
 ## Tela - Criar Perfil
 
