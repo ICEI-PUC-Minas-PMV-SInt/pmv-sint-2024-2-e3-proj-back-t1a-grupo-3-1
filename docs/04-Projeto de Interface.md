@@ -7,17 +7,35 @@ O projeto da interface da aplicação tem como objetivos principais, uma apresen
 
 O diagrama da figura 1.1, faz uma breve apresentação das principais vias de uso da aplicação, e as principais escolhas. Cada uma destas telas serão melhor detalhadas nos próximos tópicos.
 
--->IMAGE GOES HERE<--
-![Exemplo de Diagrama de Fluxo](img/Diagrama de Fluxo.jpg)
-
 <img src="img/Diagrama de Fluxo.jpg">
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas de Fluxo”.
-
-> **Links Úteis**:
-> - [Fluxograma online: seis sites para fazer gráfico sem instalar nada | Produtividade | TechTudo](https://www.techtudo.com.br/listas/2019/03/fluxograma-online-seis-sites-para-fazer-grafico-sem-instalar-nada.ghtml)
-
 ## Wireframes
+
+Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. As telas do sistema apresentam uma estrutura comum, apresentada na Figura 2.2. Nesta estrutura, existem 3 blocos, descritos a seguir.
+**Menu** - Destinado ao acesso a outras seções e funcionalidades.
+**Conteúdo** - Onde as informações da seção selecionada serão apresentadas, fixadas ao quadro ou dispostas em rolagem vertical.
+
+## Tela - Principal
+A tela principal é o coração da aplicação. Através dela, o usuário verifica o status de alimentação de seu animal.
+A tela é composta por:
+* Menu.
+* Nome do animal.
+* Status de alimentação.
+* Horário do último check (quando o cão foi alimentado pela última vez).
+* Link para detalhamento do dia ou histórico.
+* Botão check, que torna-se clicável apenas no espaço de tempo programado pelo usuário.
+
+<img src="img/Tela - 1.22.jpg">
+
+## Tela - Criar Perfil
+
+<img src="img/Tela - 1.3.jpg">
+<img src="img/Tela - 1.4.jpg">
+<img src="img/Tela - 1.5.jpg">
+
+## Tela - Histórico
+
+<img src="img/Tela - 1.6.jpg">
 
 ![Exemplo de Wireframe](img/wireframe-example.png)
 
