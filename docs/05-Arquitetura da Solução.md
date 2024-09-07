@@ -6,7 +6,7 @@ Nesta seção são apresentados os detalhes técnicos da solução criada pela e
 
 Os componentes que fazem parte da solução são apresentados na Figura que se segue.
 
-<img src"img/arqSolucao.jpg" width="500">
+<img src="img/arqSolucao.jpg" width="500">
 
 A solução implementada conta com os seguintes módulos:
 * Tela inicial: Interface básica do sistema
@@ -21,7 +21,7 @@ A solução implementada conta com os seguintes módulos:
 
 O diagrama de classes é um diagrama estrutural e define uma estrutura estática de relacionamento entre as classes. Seguem as principais classes desenvolvidas neste projeto.
 
-<img src"img/diagrama Classes - 001.jpg" width="500">
+<img src="img/diagrama Classes - 001.jpg" width="500">
 
 ## Modelo ER
 
