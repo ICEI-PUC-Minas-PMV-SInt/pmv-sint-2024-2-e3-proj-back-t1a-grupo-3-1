@@ -34,11 +34,11 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 |       Sandra       | Segurança do funcionamento das       |          Garantir o bem estar          |
 |                    | notificações.                        |          e saúde de seu animal         |
 |                    | Interface personalizável.            |                                        |
-|--------------------|--------------------------------------|----------------------------------------|
+|                    |                                      |                                        |
 |                    |Compartilhar lembretes com a família. | Garantir que o animal seja alimentado. |
 |  Gisele Medeiros   |Lembrar os filhos de alimentarem      |           Educar seus filhos.          |
 |                    |o cachorro.                           |                                        |
-|--------------------|--------------------------------------|----------------------------------------|
+|                    |                                      |                                        |
 
 ## Requisitos
 
