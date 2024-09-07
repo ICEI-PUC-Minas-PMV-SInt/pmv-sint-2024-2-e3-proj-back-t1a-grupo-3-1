@@ -8,10 +8,11 @@ Dentre várias razões, os processos ágeis têm se tornado os mais optados pela
 
 Os artefatos do projeto serão desenvolvidos remotamente, portanto, será necessário o uso de algumas plataformas as quais possibilitam a interação, organização e acesso ao código e seus resultados. A relação dos ambientes com seu respectivo propósito é apresentada a seguir.
 
-|          Ambiente         |Plataforma|Link de Acesso                                                                           
-                                                                         |
-|---------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|Repositório de código fonte|  GitHub  |ICEI-PUC-Minas-PMV-SInt/pmv-sint-2024-2-e3-proj-back-t1-pmv-sint-2024-2-e3-proj-back-t1a-BackEnd-ApplicationProjectTemplate:main.docs/05-Arquitetura da Solução.md|
+|        **Ambiente**       |**Plataforma**|               **Link de Acesso**                                  |
+|---------------------------|--------------|-------------------------------------------------------------------|
+|                           |              |ICEI-PUC-Minas-PMV-SInt/pmv-sint-2024-2-e3-proj-back-t1-pmv-sint-  |
+|Repositório de código fonte|    GitHub    |2024-2-e3-proj-back-t1a-BackEnd-ApplicationProjectTemplate:main.   |
+|                           |              |docs/05-Arquitetura da Solução.md                                  |
 
 ## Controle de Versão
 
