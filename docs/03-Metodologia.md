@@ -12,8 +12,7 @@ Os artefatos do projeto serão desenvolvidos remotamente, portanto, será necess
 |---------------------------|--------------|-------------------------------------------------------------------|
 |Repositório de código fonte|    GitHub    |ICEI-PUC-Minas-PMV-SInt/pmv-sint-2024-2-e3-proj-back-t1-pmv-sint-2024-2-e3-proj-back-t1a-BackEnd-ApplicationProjectTemplate:main.docs/05-Arquitetura da Solução.md|
 | Gerenciamento do projeto  |    Trello    |https://trello.com/b/1xOXr4je/projeto-eixo-iii                     |
-|       Documentação        | Google  Docs |https://docs.google.com/document/d/1FXkOM_oYzEki4nnQRZxgFGULBmyGf  |
-|                           |              |8zScc4N5NrPS8Q/edit                                                |
+|       Documentação        | Google  Docs |https://docs.google.com/document/d/1FXkOM_oYzEki4nnQRZxgFGULBmyGf8zScc4N5NrPS8Q/edit|
 
 ## Controle de Versão
 
