@@ -56,7 +56,6 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 |RF-004|Compartilhamento de status de alimentação.         |    MÉDIA   |
 |RF-005|Cadastramento do(s) animal(is).                    |    MÉDIA   |
 |RF-006|Exibir histórico de alimentação.                   |    ALTA    |
-|------|---------------------------------------------------|------------|
 
 ### Requisitos não Funcionais
 
@@ -67,7 +66,6 @@ A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá 
 |RF-001|O sistema deve ter resistência a falhas nas notificações.|   ALTA    |
 |RF-002|Interface simples (clean) e intuitiva.                   |   ALTA    |
 |RF-003|Interface personalizável                                 |  BAIXA    |
-|------|---------------------------------------------------------|-----------|
 
 ## Restrições
 
@@ -83,6 +81,11 @@ As questões que limitam a execução desse projeto e que se configuram como obr
 O diagrama de caso de uso é um diagrama de alto nível de abstração, utilizado nas reuniões de levantamento com os usuários, pois possui notação fácil e que auxilia o diálogo com os clientes ou usuários. Este diagrama é usado para a modelagem de requisitos funcionais e pode também servir como um contrato entre as partes, pois delimita o escopo do sistema.
 A seguir, serão apresentadas algumas das funcionalidades básicas do sistema, tais como registro e consulta da alimentação de cães e notificação do horário ou esquecimento.
 
+<img src="img/Figura - 01.jpg" >
 Figura 1. Usuário faz o check contendo dia, horário e o animal cadastrado.
+
+<img src="img/Figura - 03.jpg" >
 Figura 2. Usuário notificado conforme o programado.
+
+<img src="img/Figura - 02.jpg" >
 Figura 3. Alteração de status para possíveis outros usuários incluídos.
