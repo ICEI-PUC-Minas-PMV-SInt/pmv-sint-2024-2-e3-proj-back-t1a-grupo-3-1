@@ -84,8 +84,10 @@ A seguir, serão apresentadas algumas das funcionalidades básicas do sistema, t
 <img src="img/Figura - 01.jpg" >
 Figura 1. Usuário faz o check contendo dia, horário e o animal cadastrado.
 
+
 <img src="img/Figura - 03.jpg" >
 Figura 2. Usuário notificado conforme o programado.
+
 
 <img src="img/Figura - 02.jpg" >
 Figura 3. Alteração de status para possíveis outros usuários incluídos.
