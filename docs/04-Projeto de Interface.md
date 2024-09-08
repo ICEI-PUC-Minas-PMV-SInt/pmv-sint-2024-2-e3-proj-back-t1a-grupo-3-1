@@ -11,9 +11,12 @@ O diagrama da figura 1.1, faz uma breve apresentação das principais vias de us
 
 ## Wireframes
 
-Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. As telas do sistema apresentam uma estrutura comum, composta por 2 blocos, descritos a seguir..
+Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. As telas do sistema apresentam uma estrutura comum, composta por 2 blocos, descritos e ilustrados a seguir.
+
 **Menu** - Destinado ao acesso a outras seções e funcionalidades.
 **Conteúdo** - Onde as informações da seção selecionada serão apresentadas, fixadas ao quadro ou dispostas em rolagem vertical.
+
+<img src="img/Tela - 1.8.jpg" width="350">
 
 ## Tela - Principal
 A tela principal é o coração da aplicação. Através dela, o usuário verifica o status de alimentação de seu animal.
