@@ -59,7 +59,7 @@ Recursos: esta lista mantém um template de tarefas recorrentes com as configura
 
 O quadro kanban do grupo no Trello está disponível através da URL https://trello.com/b/1jTLwxe6/projeto-eixo-iii.
 
-<img src="Tela do Trello.jpg">
+<img src="img/Tela do Trello.jpg">
 Figura 2.2 - Tela do Trello utilizada pela equipe.
 
 A tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:
