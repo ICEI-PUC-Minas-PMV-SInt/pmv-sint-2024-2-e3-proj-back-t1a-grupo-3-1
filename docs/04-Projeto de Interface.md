@@ -11,7 +11,7 @@ O diagrama da figura 1.1, faz uma breve apresentação das principais vias de us
 
 ## Wireframes
 
-Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. As telas do sistema apresentam uma estrutura comum, apresentada na Figura 2.2. Nesta estrutura, existem 3 blocos, descritos a seguir.
+Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. As telas do sistema apresentam uma estrutura comum, composta por 2 blocos, descritos a seguir..
 **Menu** - Destinado ao acesso a outras seções e funcionalidades.
 **Conteúdo** - Onde as informações da seção selecionada serão apresentadas, fixadas ao quadro ou dispostas em rolagem vertical.
 
@@ -29,10 +29,20 @@ A tela é composta por:
 
 ## Tela - Criar Perfil
 
+Ao utilizar a aplicação pela primeira vez, esta tela será apresentada ao usuário, com o intuito de guiá-lo ao cadastramento de seus dados e os dados do cão, de maneira simples e intuitiva.
+
 <img src="img/Tela - 1.3.jpg" width="350">
+
+Com o arrastar da tela para a esquerda, o usuário prosseguirá no cadastramento.
+Caso deseje reaver alguma informação, basta arrastar para a direita.
+O “X” localizado à direita no topo da tela, finaliza a atividade executada no momento, podendo ocorrer ao desejar do usuário.
+
 <img src="img/Tela - 1.4.jpg" width="350">
 <img src="img/Tela - 1.5.jpg" width="350">
 
 ## Tela - Histórico
+
+A tela de histórico apresentará informações básicas e avançadas a respeito da rotina de alimentação do animal cadastrado.
+Ao final das semanas, meses e ano, poderão ser solicitados relatórios sobre a assiduidade e comprometimento do usuário.
 
 <img src="img/Tela - 1.6.jpg" width="350">
