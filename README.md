@@ -1,23 +1,21 @@
 # TÍTULO DO PROJETO
 
 `CURSO`
-
+Sistemas Para Internet
 `DISCIPLINA`
-
+Eixo 3 - Projeto: Desenvolvimento WEB Back-End - Turma 01/2024/2
 `SEMESTRE`
-
+Segundo semestre de 2024.
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
+* Dhenis Cruz Madeira
 * Glauber Rodrigues Lanna e Silva
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
 
 ## Orientador
 
-* Nome completo do professor 1
+* Will Ricardo dos Santos Machado
 
 ## Instruções de utilização
 
