@@ -2,8 +2,10 @@
 
 `CURSO`
 Sistemas Para Internet
+
 `DISCIPLINA`
 Eixo 3 - Projeto: Desenvolvimento WEB Back-End - Turma 01/2024/2
+
 `SEMESTRE`
 Segundo semestre de 2024.
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
