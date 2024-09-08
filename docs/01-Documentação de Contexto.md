@@ -1,6 +1,6 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+A tecnologia desempenha um papel crucial ao facilitar as tarefas diárias, sendo o cuidado com animais de estimação uma destas. Com a rotina cada vez mais agitada, muitos tutores de cães enfrentam dificuldades para manter um horário regular de alimentação para seus cães. Com intuito de resolver este problema, será proposto o desenvolvimento de um aplicativo de lembrete de alimentação de cães, com o objetivo principal de auxiliar na manutenção de uma rotina de alimentação saudável e consistente para estes animais domésticos.
 
 ## Problema
 
