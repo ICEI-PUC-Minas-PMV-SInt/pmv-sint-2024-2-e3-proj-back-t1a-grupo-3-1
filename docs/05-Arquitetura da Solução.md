@@ -25,6 +25,8 @@ O diagrama de classes é um diagrama estrutural e define uma estrutura estática
 
 ## Modelo ER
 
+<img src="img/Esquema Relacional.jpg" width="500">
+
 O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.]
 
 As referências abaixo irão auxiliá-lo na geração do artefato “Modelo ER”.
