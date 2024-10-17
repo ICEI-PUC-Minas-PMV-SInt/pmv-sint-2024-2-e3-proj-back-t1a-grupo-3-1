@@ -43,6 +43,31 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Esquema Rel
 
 ## Modelo Físico (DDL)
 
+CREATE TABLE Usuario
+{
+  ID_Usuario  char(3) PRIMARY KEY,
+  Nome        char(20),
+  Telefone    char(12),
+}
+
+CREATE TABLE Cachorro
+{
+  ID_Cachorro  char(3) PRIMARY KEY,
+  Nome         char(20),
+  Raca         char(15),
+  Idade        char(2),
+  CONSTRAINT FK_Cachorro_Usuario  char(3) FOREIGN KEY (Usuario) REFERENCES (ID_Usuario)
+}
+
+CREATE TABLE Alimentacao
+{
+  ID_Alimentacao    char(3) PRIMARY KEY,
+  Hora_Alimentacao  char(5),
+  Tipo_Comida       char(10),
+  Quantidade        numeric,
+  CONSTRAINT FK_Alimentacao_Cachorro  char(3) FOREIGN KEY (Cachorro) REFERENCES (ID_Cachorro)
+}
+
 Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do banco de dados. Este arquivo deverá ser incluído dentro da pasta src\bd.
 
 ## Instruções SQL de Manipulação do BD (DML)
