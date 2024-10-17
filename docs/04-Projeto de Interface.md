@@ -29,24 +29,24 @@ A tela é composta por:
 * Link para detalhamento do dia ou histórico.
 * Botão check, que torna-se clicável apenas no espaço de tempo programado pelo usuário.
 
-<img src="img/Tela - 1.22.jpg" width="350">
+<img src="img/003 - Logado.jpg" width="350">
 
 ## Tela - Criar Perfil
 
 Ao utilizar a aplicação pela primeira vez, esta tela será apresentada ao usuário, com o intuito de guiá-lo ao cadastramento de seus dados e os dados do cão, de maneira simples e intuitiva.
 
-<img src="img/Tela - 1.3.jpg" width="350">
+<img src="img/002 - Criar Perfil.jpg" width="350">
 
 * Com o arrastar da tela para a esquerda, o usuário prosseguirá no cadastramento.
 * Caso deseje reaver alguma informação, basta arrastar para a direita.
 * O “X” localizado à direita no topo da tela, finaliza a atividade executada no momento, podendo ocorrer ao desejar do usuário.
 
-<img src="img/Tela - 1.4.jpg" width="350">
-<img src="img/Tela - 1.5.jpg" width="350">
+<img src="img/005 - Cadastrar Animal.jpg" width="350">
+<img src="img/006 - Cadastrar Horario de Alimentacao.jpg" width="350">
 
 ## Tela - Histórico
 
 * A tela de histórico apresentará informações básicas e avançadas a respeito da rotina de alimentação do animal cadastrado.
 * Ao final das semanas, meses e ano, poderão ser solicitados relatórios sobre a assiduidade e comprometimento do usuário.
 
-<img src="img/Tela - 1.6.jpg" width="350">
+<img src="img/004 - Historico.jpg" width="350">
