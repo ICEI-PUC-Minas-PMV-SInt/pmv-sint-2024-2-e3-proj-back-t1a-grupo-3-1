@@ -7,7 +7,8 @@ O projeto da interface da aplicação tem como objetivos principais, uma apresen
 
 O diagrama da figura 1.1, faz uma breve apresentação das principais vias de uso da aplicação, e as principais escolhas. Cada uma destas telas serão melhor detalhadas nos próximos tópicos.
 
-<img src="img/Diagrama de Fluxo.jpg">
+
+<img src="img/Diagrama de Fluxo Desktop.jpg">
 
 ## Wireframes
 
