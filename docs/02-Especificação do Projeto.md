@@ -17,6 +17,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
   Aplicativos que não têm opções para personalizar suas tarefas. Notificações que falham ou não são enviadas no momento programado.
   
 
+
 **Persona 2:** Gisele Medeiros tem 37 anos, é contadora, casada e tem dois filhos. Sua rotina de trabalho é muito ocupada e irregular. Depende de lembretes anotados em calendários expostos em vários ambientes de seu dia-a-dia como, a mesa do escritório onde trabalha e a geladeira de sua cozinha.
 
 
@@ -31,10 +32,12 @@ As personas levantadas durante o processo de entendimento do problema são apres
   **Persona 3:** Carlos é veterinário, casado, tem filhos, é proprietário de um hotel especializado para cães e faz plantões em clínicas veterinárias. Portanto, tem a rotina diaria bem agitada e em alguns dias, incerta.
 
 
+
 **Necessidades:** Separar e centralizar o registro de alimentação dos cães em um portal feito especialmente para isto, de modo que possa verificar os animais que foram alimentados, por quem e quando (Dia e horário); ou se algum animal não foi alimentado.
 
 
 **Frustrações:** Como não tem muito tempo para estar presente no hotel para cães, Carlos tende a administrá-la à distância, através de ligações, grupos de Whats App e câmeras de segurança instaladas no hotel. Porém, o registro de alimentação dos animais tende a ser complexo, junto ao emaranhado de informações trocadas entre ele e seus colaboradores.
+
 
 
 ## Histórias de Usuários
