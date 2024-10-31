@@ -81,13 +81,16 @@ As questões que limitam a execução desse projeto e que se configuram como obr
 O diagrama de caso de uso é um diagrama de alto nível de abstração, utilizado nas reuniões de levantamento com os usuários, pois possui notação fácil e que auxilia o diálogo com os clientes ou usuários. Este diagrama é usado para a modelagem de requisitos funcionais e pode também servir como um contrato entre as partes, pois delimita o escopo do sistema.
 A seguir, serão apresentadas algumas das funcionalidades básicas do sistema, tais como registro e consulta da alimentação de cães e notificação do horário ou esquecimento.
 
-<img src="img/Figura - 01.jpg" >
-Figura 1. Usuário faz o check contendo dia, horário e o animal cadastrado.
+<img src="img/Casos de Uso - 001" >
+Figura 1. Usuário cria sua conta e efetua seu login.
 
 
-<img src="img/Figura - 03.jpg" >
-Figura 2. Usuário notificado conforme o programado.
+<img src="img/Casos de Uso - 002" >
+Figura 2. Dentro do sistema, o usuário que cadastra o cão torna-se o usuário principal,
+outros possíveis responsáveis, serão secundários, receberão notificações e poderão registrar
+a alimentação do cão cadastrado.
 
 
-<img src="img/Figura - 02.jpg" >
-Figura 3. Alteração de status para possíveis outros usuários incluídos.
+<img src="img/Casos de Uso - 003" >
+Figura 3. Ao registrar a alimentação será alterado o estado de alimentação
+e registrado no histórico de alimentação.
