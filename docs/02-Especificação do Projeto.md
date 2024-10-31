@@ -7,28 +7,21 @@ Objetiva-se a criação de um aplicativo móvel que ajude os usuários a mantere
 As personas levantadas durante o processo de entendimento do problema são apresentadas nos relatos que se seguem.
 
 **Persona 1:** Sandra tem 28 anos, é designer gráfica, solteira, trabalha homeoffice e tem uma rotina flexível.
-
-
+<br>
   **Necessidades:**
   Preocupada com a saúde e bem-estar de sua cadelinha Mara, gostaria de organizar seus horários de alimentação através de lembretes para diferentes horários.
-
-
+<br>
   **Frustrações:**
   Aplicativos que não têm opções para personalizar suas tarefas. Notificações que falham ou não são enviadas no momento programado.
-  
-
-
+  <br><br>
 **Persona 2:** Gisele Medeiros tem 37 anos, é contadora, casada e tem dois filhos. Sua rotina de trabalho é muito ocupada e irregular. Depende de lembretes anotados em calendários expostos em vários ambientes de seu dia-a-dia como, a mesa do escritório onde trabalha e a geladeira de sua cozinha.
-
-
+<br>
   **Necessidades:**
   Garantir que seus filhos também lembrem de alimentar o cachorro. Lembretes que possam ser compartilhados com outros membros da família. Interface simples e intuitiva. Notificações claras e visíveis.
-
-
+<br>
   **Frustrações:**
   Aplicativos complexos e difíceis de usar. Falta de integração com outros dispositivos usados pela família.
-
-  
+<br><br><br>
   **Persona 3:** Carlos é veterinário, casado, tem filhos, é proprietário de um hotel especializado para cães e faz plantões em clínicas veterinárias. Portanto, tem a rotina diaria bem agitada e em alguns dias, incerta.
 
 
