@@ -15,7 +15,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 * **Frustrações:** Aplicativos complexos e difíceis de usar. Falta de integração com outros dispositivos usados pela família. <br><br><br>
 
 **Persona 3:** Carlos é veterinário, casado, tem filhos, é proprietário de um hotel especializado para cães e faz plantões em clínicas veterinárias. Portanto, tem a rotina diaria bem agitada e em alguns dias, incerta.<br><br>
-* **Necessidades:** Separar e centralizar o registro de alimentação dos cães em um portal feito especialmente para isto, de modo que possa verificar os animais que foram alimentados, por quem e quando (Dia e horário); ou se algum animal não foi alimentado.<br><br>
+* **Necessidades:** Separar e centralizar o registro de alimentação dos cães em um portal feito especialmente para isto, de modo que possa verificar quais os animais que foram alimentados, por quem e quando (Dia e horário); ou se algum animal não foi alimentado.<br><br>
 * **Frustrações:** Como não tem muito tempo para estar presente no hotel para cães, Carlos tende a administrá-la à distância, através de ligações, grupos de Whats App e câmeras de segurança instaladas no hotel. Porém, o registro de alimentação dos animais tende a ser complexo, junto ao emaranhado de informações trocadas entre ele e seus colaboradores.
 
 
@@ -28,6 +28,8 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 |--------------------|--------------------------------------|----------------------------------------|
 | Sandra | Organizar horários de alimentação. Segurança do funcionamento das notificações. Interface personalizável. | Garantir o bem estar e saúde de seu animal |
 | Gisele Medeiros |Compartilhar lembretes com a família. Lembrar os filhos de alimentarem o cachorro. | Garantir que o animal seja alimentado. Educar seus filhos quanto a responsabilidades com os cuidados com o cãozinho. |
+| Carlos | Separar e centralizar o registro de alimentação dos cães em um portal  especializado. |  Verificar quais os animais que foram alimentados, por quem e quando (Dia e horário); Verificar se algum animal não foi alimentado. |
+
 ## Requisitos
 
 O escopo funcional do projeto é definido por meio dos requisitos funcionais que descrevem as possibilidades interação dos usuários, bem como os requisitos não funcionais que descrevem os aspectos que o sistema deverá apresentar de maneira geral. Estes requisitos são apresentados a seguir. 
