@@ -28,7 +28,7 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 |--------------------|--------------------------------------|----------------------------------------|
 | Sandra | Organizar horários de alimentação. Segurança do funcionamento das notificações. Interface personalizável. | Garantir o bem estar e saúde de seu animal |
 | Gisele Medeiros |Compartilhar lembretes com a família. Lembrar os filhos de alimentarem o cachorro. | Garantir que o animal seja alimentado. Educar seus filhos quanto a responsabilidades com os cuidados com o cãozinho. |
-| Carlos | Separar e centralizar o registro de alimentação dos cães em um portal  especializado. |  Verificar quais os animais que foram alimentados, por quem e quando (Dia e horário); Verificar se algum animal não foi alimentado. |
+| Carlos | Separar e centralizar o registro de alimentação dos cães em um portal  especializado. |  Verificar quais os animais que foram alimentados, por quem e quando (Dia e horário). Verificar se algum animal não foi alimentado. |
 
 ## Requisitos
 
