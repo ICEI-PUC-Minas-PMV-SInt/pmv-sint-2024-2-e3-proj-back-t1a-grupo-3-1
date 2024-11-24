@@ -1,0 +1,52 @@
+﻿@model Projeto_1._0_eixo3_2024.Models.Alimentacao
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Visualizar Alimentação</h1>
+
+<div>
+    <h4>Alimentação</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Cachorro)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Cachorro.NomeCachorro)
+        </dd>
+
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Tipo)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Tipo)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.QuantidadeAlimentacao)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.QuantidadeAlimentacao)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.UnidadeMedida)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.UnidadeMedida)
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.HoraAlimentacao)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.HoraAlimentacao)
+        </dd>
+
+
+    </dl>
+</div>
+<div>
+    <a asp-action="Index" class="btn btn-info">Voltar</a> |
+    <a asp-action="Edit" asp-route-id="@Model?.IdAlimentacao" class="btn btn-success">Editar</a>
+</div>

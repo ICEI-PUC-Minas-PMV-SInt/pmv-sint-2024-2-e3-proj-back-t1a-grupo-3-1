@@ -1,0 +1,57 @@
+﻿@model Projeto_1._0_eixo3_2024.Models.Alimentacao
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Editar Alimentação</h1>
+
+<h4>Alimentação</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="IdAlimentacao" />
+            <div class="form-group">
+                <label asp-for="IdCachorro" class="control-label"></label>
+                <select asp-for="IdCachorro" class="form-control" asp-items="ViewBag.IdCachorro"></select>
+                <span asp-validation-for="IdCachorro" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+                <label asp-for="Tipo" class="control-label"></label>
+                <select asp-for="Tipo" class="form-control" asp-items="Html.GetEnumSelectList<TipoAlimentacao>()"></select>
+                <span asp-validation-for="Tipo" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="QuantidadeAlimentacao" class="control-label"></label>
+                <input asp-for="QuantidadeAlimentacao" class="form-control" />
+                <span asp-validation-for="QuantidadeAlimentacao" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="UnidadeMedida" class="control-label"></label>
+                <select asp-for="UnidadeMedida" class="form-control" asp-items="Html.GetEnumSelectList<UnidadeMedida>()"></select>
+                <span asp-validation-for="UnidadeMedida" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="HoraAlimentacao" class="control-label"></label>
+                <input asp-for="HoraAlimentacao" class="form-control" />
+                <span asp-validation-for="HoraAlimentacao" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <a asp-action="Index" class="btn btn-info">Voltar</a> |
+                <input type="submit" value="Salvar" class="btn btn-success" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,60 @@
+﻿@model IEnumerable<Projeto_1._0_eixo3_2024.Models.Alimentacao>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Alimentações</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-success">Registrar Nova Alimentação</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Cachorro)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tipo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.QuantidadeAlimentacao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UnidadeMedida)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HoraAlimentacao)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+               @Html.DisplayFor(modelItem => item.Cachorro.NomeCachorro)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tipo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.QuantidadeAlimentacao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UnidadeMedida)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HoraAlimentacao)
+            </td>
+
+            <td>
+                    <a class="btn btn-warning" asp-action="Edit" asp-route-id="@item.IdAlimentacao">Edit</a> |
+                    <a class="btn btn-primary" asp-action="Details" asp-route-id="@item.IdAlimentacao">Details</a> |
+                    <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.IdAlimentacao">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

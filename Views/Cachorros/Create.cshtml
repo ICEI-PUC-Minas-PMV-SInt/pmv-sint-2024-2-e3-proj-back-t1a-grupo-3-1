@@ -1,0 +1,42 @@
+﻿@model Projeto_1._0_eixo3_2024.Models.Cachorro
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Adicionar Um Cachorro</h1>
+
+<h4>Cachorro</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="NomeCachorro" class="control-label"></label>
+                <input asp-for="NomeCachorro" class="form-control" />
+                <span asp-validation-for="NomeCachorro" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NascimentoCachorro" class="control-label"></label>
+                <input asp-for="NascimentoCachorro" class="form-control" />
+                <span asp-validation-for="NascimentoCachorro" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RacaCachorro" class="control-label"></label>
+                <input asp-for="RacaCachorro" class="form-control" />
+                <span asp-validation-for="RacaCachorro" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <a asp-action="Index" class="btn btn-info">Voltar</a>
+                <input type="submit" value="Adicionar" class="btn btn-success" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
