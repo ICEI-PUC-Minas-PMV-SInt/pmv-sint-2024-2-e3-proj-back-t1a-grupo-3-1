@@ -26,6 +26,30 @@ Comente sobre as ferramentas de testes utilizadas.
 
 | Teste  |  Resultado  |  Conclusão |
 |--------|-------------|------------|
-|Acesso à seção Cachorros| Redirecionado à seção de Login|Sucesso|
-|Teste em seção Alimentações| Redirecionado à seção de Login|Sucesso|
-|Teste em seção Usuários| Redirecionado à seção de Login|Sucesso|
+|Acesso à seção Home|Acesso concedido|Sucesso|
+|Acesso à seção de Login|Acesso concedido|Sucesso|
+|Acesso à seção Cachorros|Redirecionado à seção de Login|Sucesso|
+|Teste em seção Alimentações|Redirecionado à seção de Login|Sucesso|
+|Teste em seção Usuários|Redirecionado à seção de Login|Sucesso|
+
+## Controle de Acesso com Autenticação
+
+`Usuário "ADMIN" `
+
+| Teste  |  Resultado  |  Conclusão |
+|--------|-------------|------------|
+|Acesso à seção Home|Acesso concedido|Sucesso|
+|Acesso à seção de Login|Acesso concedido|Sucesso|
+|Acesso à seção Cachorros|Acesso concedido|Sucesso|
+|Teste em seção Alimentações|Acesso concedido|Sucesso|
+|Teste em seção Usuários|Acesso concedido|Sucesso|
+
+`Usuário "USER" `
+
+| Teste  |  Resultado  |  Conclusão |
+|--------|-------------|------------|
+|Acesso à seção Home|Acesso concedido|Sucesso|
+|Acesso à seção de Login|Acesso concedido|Sucesso|
+|Acesso à seção Cachorros|Acesso concedido|Sucesso|
+|Teste em seção Alimentações|Acesso concedido|Sucesso|
+|Teste em seção Usuários|Acesso Negado|Sucesso|
