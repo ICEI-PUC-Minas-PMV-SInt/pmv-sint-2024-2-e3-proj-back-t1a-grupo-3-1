@@ -21,8 +21,9 @@ Comente sobre as ferramentas de testes utilizadas.
 
 ## Testes Funcionais
 
-|Controle de Acesso sem Autenticação|
-|-----------------------------------|
+## Controle de Acesso sem Autenticação
+
+
 | Teste  |  Resultado  |  Conclusão |
 |--------|-------------|------------|
 |Acesso à seção Cachorros| Redirecionado à seção de Login|Sucesso|
