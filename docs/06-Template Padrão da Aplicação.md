@@ -10,6 +10,12 @@ Dentro da navegação, ao centro (a) estarão as seções disponíveis do usuár
 
 <img src="img/TemplatePortal- 0001.jpg" width="900">
 
+# Operações Básicas da Plataforma
+A representação dos botões para operações do <b>CRUD</b> estarão dispostos, Criar "<i>Create</i>" na cor verde,
+Detalhar "<i>Read</i>" em azul, Editar "<i>Update</i>" em amarelo e Apagar "<i>Delete</i>" em vermelho.
+
+<img src="img/TemplatePortal- 0002.jpg" width="336">
+
 <br><br><br><br><br>
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>
