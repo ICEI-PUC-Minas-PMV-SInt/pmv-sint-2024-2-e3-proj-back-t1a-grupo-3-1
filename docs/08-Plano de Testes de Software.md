@@ -5,14 +5,14 @@ Serão realizados os testes funcionais como segue:
 
 # Controle de Acesso Sem Autenticação
 
-Nestes testes pretende-se evidenciar a restrição de acesso a usuários não logados, sendo a seção inicial (Home) e a área de Login, liberadas ao acesso público, as seções remanescentes deverão ter seu acesso negado, e por ora, redirecionado à seção de Login.
+Nestes testes pretende-se evidenciar a restrição de acesso a usuários não logados, sendo a seção inicial (<i>Home</i>) e a área de Login, liberadas ao acesso público, as seções remanescentes deverão ter seu acesso negado, e por ora, redirecionado à seção de Login.
 
 Controle de Acesso Com Autenticação
 
-Nestes testes pretende-se evidenciar o êxito ao efetuar o Login de usuário, tal qual, suas atribuições particulares aos distintos grupos de usuários; Administrador, representado pelo termo "Admin"
-e Usuário comum, representado pelo termo "User".
+Nestes testes pretende-se evidenciar o êxito ao efetuar o Login de usuário, tal qual, suas atribuições particulares aos distintos grupos de usuários; Administrador, representado pelo termo "<i>Admin</i>"
+e Usuário comum, representado pelo termo "<i>User</i>".
 
-Usuários <i>Admin</i> e User possuem acesso às seções Cachorros e Alimentações, porém, apenas o tipo Admin poderá acessar à seção Usuários
+Usuários <i>Admin</i> e <i>User</i> possuem acesso às seções Cachorros e Alimentações, porém, apenas o tipo <i>Admin</i> poderá acessar à seção Usuários
 
 
 
