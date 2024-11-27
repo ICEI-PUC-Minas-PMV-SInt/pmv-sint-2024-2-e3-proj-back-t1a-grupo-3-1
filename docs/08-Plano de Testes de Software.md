@@ -23,7 +23,7 @@ Usuários <i>Admin</i> e <i>User</i> possuem acesso às seções Cachorros e Ali
 
 
 
-
+<br><br><br><br><br>
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
 
