@@ -5,7 +5,7 @@ Serão realizados os testes funcionais como segue:
 
 # Controle de Acesso Sem Autenticação
 
-Nestes testes pretende-se evidenciar a restrição de acesso a usuários não logados, sendo as seção inicial (Home) e a área de Login, liberadas ao acesso público, as seções remanescentes deverão ter seu acesso negado, e por ora, redirecionado à seção de Login.
+Nestes testes pretende-se evidenciar a restrição de acesso a usuários não logados, sendo a seção inicial (Home) e a área de Login, liberadas ao acesso público, as seções remanescentes deverão ter seu acesso negado, e por ora, redirecionado à seção de Login.
 
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
