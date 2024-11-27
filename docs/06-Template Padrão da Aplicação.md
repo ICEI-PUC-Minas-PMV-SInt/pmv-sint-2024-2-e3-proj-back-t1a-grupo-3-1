@@ -8,6 +8,7 @@ e funcional, como ilustrado a seguir:
 A tela será dividida em navegação, ao topo da tela, e a funcionalidade da seção acessada, abaixo da navegação (c), ocupando toda a área central necessária.
 Dentro da navegação, ao centro (a) estarão as seções disponíveis do usuário e ao final da tela, à direita (b), o indicador de autenticação, opção de fazer <i>Login</i> ou Sair do perfil.
 
+<img src="img/TemplatePortal- 0001.jpg" width="500">
 
 <br><br><br><br><br>
 
