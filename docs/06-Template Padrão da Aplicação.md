@@ -14,7 +14,7 @@ Dentro da navegação, ao centro (a) estarão as seções disponíveis do usuár
 A representação dos botões para operações do <b>CRUD</b> estarão dispostos, Criar "<i>Create</i>" na cor verde,
 Detalhar "<i>Read</i>" em azul, Editar "<i>Update</i>" em amarelo e Apagar "<i>Delete</i>" em vermelho.
 
-<img src="img/TemplatePortal- 0002.jpg" width="336">
+<img src="img/TemplatePortal - 0002.jpg" width="336">
 
 <br><br><br><br><br>
 
