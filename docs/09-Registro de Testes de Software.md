@@ -2,7 +2,7 @@
 
 ## Testes Funcionais
 
-##RF-001 Controle de Acesso sem Autenticação
+## RF-001 Controle de Acesso sem Autenticação
 
 
 | Teste  |  Resultado  |  Conclusão |
@@ -13,7 +13,7 @@
 |Teste em seção Alimentações|Redirecionado à seção de Login|Sucesso|
 |Teste em seção Usuários|Redirecionado à seção de Login|Sucesso|
 
-##RF-002 Controle de Acesso com Autenticação
+## RF-002 Controle de Acesso com Autenticação
 
 `Usuário "ADMIN" `
 
@@ -35,7 +35,7 @@
 |Teste em seção Alimentações|Acesso concedido|Sucesso|
 |Teste em seção Usuários|Acesso Negado|Sucesso|
 
-#RF-003 Criar Novo Usuário
+## RF-003 Criar Novo Usuário
 | Teste  |  Resultado  |  Conclusão |
 |--------|-------------|------------|
 |Preenchimento de Formulário|Campos habilitados e funcionando|Sucesso ao receber dados de cadastro.|
