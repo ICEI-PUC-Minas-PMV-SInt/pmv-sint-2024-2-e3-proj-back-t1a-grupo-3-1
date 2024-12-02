@@ -1,10 +1,10 @@
-#Plano de Testes de Software
+# Plano de Testes de Software
 
 # Testes Funcionais
 Serão realizados os testes funcionais como segue:
 
 
-#Controle de Acesso
+# Controle de Acesso
 Nestes testes pretende-se evidenciar a restrição e permissão de acesso das seções citadas a seguir.
 
 - Verificar acesso à seção /Home
@@ -13,18 +13,18 @@ Nestes testes pretende-se evidenciar a restrição e permissão de acesso das se
 - Verificar acesso à seção /Alimentacoes
 - Verificar acesso à seção /Usuarios
 
-#RF-001 Controle de Acesso Sem Autenticação
+# RF-001 Controle de Acesso Sem Autenticação
 
 Requisito: Nestes testes pretende-se evidenciar a restrição de acesso a usuários não logados, sendo a seção inicial (<i>Home</i>) e a área de Login, liberadas ao acesso público, as seções remanescentes deverão ter seu acesso negado, e por ora, redirecionado à seção de Login.
 
-#RF-002 Controle de Acesso Com Autenticação
+# RF-002 Controle de Acesso Com Autenticação
 
 Requisito: Nestes testes pretende-se evidenciar o êxito ao efetuar o Login de usuário, tal qual, suas atribuições particulares aos distintos grupos de usuários; Administrador, representado pelo termo "<i>Admin</i>"
 e Usuário comum, representado pelo termo "<i>User</i>".
 
 Usuários <i>Admin</i> e <i>User</i> possuem acesso às seções Cachorros e Alimentações, porém, apenas o tipo <i>Admin</i> poderá acessar à seção Usuários
 
-#RF-003 Cadastro de Usuário
+# RF-003 Cadastro de Usuário
 
 Requisito: O usuário deve poder se cadastrar fornecendo nome de usuário, tipo de conta e senha.
 
@@ -34,7 +34,7 @@ Requisito: O usuário deve poder se cadastrar fornecendo nome de usuário, tipo 
 
 - Verificar se o cadastro do usuário teve sucesso realizando o login no perfil criado.
 
-#RF-004 Login do Usuário
+# RF-004 Login do Usuário
 
 Requisito: O usuário deve poder fazer login utilizando o nome de usuário e senha cadastrados.
 
