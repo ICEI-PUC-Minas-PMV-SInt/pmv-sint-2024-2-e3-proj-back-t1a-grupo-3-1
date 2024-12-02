@@ -40,7 +40,7 @@
 |--------|-------------|------------|
 |Preenchimento de Formulário|Campos habilitados e funcionando|Sucesso ao receber dados de cadastro.|
 |Mensagem de Erro|Exibição de mensagem quando houve campos não preenchidos|Sucesso|
-|Novo Usuário|Usuário criado com os dados informados|Sucesso ao criar perfil de usuário e grava-lo no banco de dados|
+|Novo Usuário|Usuário criado com os dados informados|Sucesso ao criar perfil de usuário e gravá-lo no banco de dados|
 
 <br><br><br><br><br>
 
