@@ -76,6 +76,17 @@ Entregar um arquivo dml.sql contendo os scripts de manipulação de banco de dad
 
 ## Tecnologias Utilizadas
 
+O desenvolvimento do projeto será realizado no programa Visual Studio, da Microsoft, em linguagem C# utilizado o modelo ASP.NET Core Web App(Model-View-Controller) que gera a visualização do portal (front-end), através do framework Bootstrap. Serão usados também, os seguintes pacotes NuGet:
+
+- BCrypt.Net-Next - versão 4.0.3
+- Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation - versão 8.0.0
+- Microsoft.EntityFrameworkCore.SqlServer - versão 9.0.0
+- Microsoft.EntityFrameworkCore.Tools - versão 9.0.0
+- Microsoft.VisualStudio.Web.CodeGeneration.Design - versão 8.0.7
+
+
+
+
 Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
 
 Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
