@@ -1,10 +1,9 @@
 # Plano de Testes de Software
 
-# Testes Funcionais
+# Testes de Requisitos Funcionais
 Serão realizados os testes funcionais como segue:
 
-
-# Controle de Acesso
+# TESTES DE CONTROLE DE ACESSO
 Nestes testes pretende-se evidenciar a restrição e permissão de acesso das seções citadas a seguir.
 
 - Verificar acesso à seção /Home
@@ -13,18 +12,32 @@ Nestes testes pretende-se evidenciar a restrição e permissão de acesso das se
 - Verificar acesso à seção /Alimentacoes
 - Verificar acesso à seção /Usuarios
 
-# RF-001 Controle de Acesso Sem Autenticação
+## RF-001 Controle de Acesso Sem Autenticação
 
 Requisito: Nestes testes pretende-se evidenciar a restrição de acesso a usuários não logados, sendo a seção inicial (<i>Home</i>) e a área de Login, liberadas ao acesso público, as seções remanescentes deverão ter seu acesso negado, e por ora, redirecionado à seção de Login.
 
-# RF-002 Controle de Acesso Com Autenticação
+## RF-002 Controle de Acesso Com Autenticação
 
 Requisito: Nestes testes pretende-se evidenciar o êxito ao efetuar o Login de usuário, tal qual, suas atribuições particulares aos distintos grupos de usuários; Administrador, representado pelo termo "<i>Admin</i>"
 e Usuário comum, representado pelo termo "<i>User</i>".
 
 Usuários <i>Admin</i> e <i>User</i> possuem acesso às seções Cachorros e Alimentações, porém, apenas o tipo <i>Admin</i> poderá acessar à seção Usuários
 
-# RF-003 Cadastro de Usuário
+## RF-003 Login do Usuário
+
+Requisito: O usuário deve poder fazer login utilizando o nome de usuário e senha cadastrados.
+
+- Verificar se o formulário de login aceita os dados corretos.
+
+- Verificar se o usuário é redirecionado para a página inicial após login bem-sucedido.
+
+- Verificar se mensagens de erro são exibidas para dados incorretos.
+
+<!-- ........................................................................................................................... -->
+
+# TESTES DA SEÇÃO USUÁRIOS
+
+## RF-004 Cadastro de Usuário
 
 Requisito: O usuário deve poder se cadastrar fornecendo nome de usuário, tipo de conta e senha.
 
@@ -34,7 +47,7 @@ Requisito: O usuário deve poder se cadastrar fornecendo nome de usuário, tipo 
 
 - Verificar se o cadastro do usuário teve sucesso realizando o login no perfil criado.
 
-## RF-004 Exibição de Informações sobre o Usuário
+## RF-005 Exibição de Informações sobre o Usuário
 
 Requisito: Visualização das informações sobre o Usuário e possível alteração quando solicitada.
 
@@ -42,15 +55,27 @@ Requisito: Visualização das informações sobre o Usuário e possível altera�
 
 - Verificar a exibição e função de redirecionamento do botão Editar, para esta seção da plataforma.
 
-# RF-005 Login do Usuário
+## RF-006 Edição de Informações do Usuário
+Requisito: O usuário deve poder editar as informações sobre um Usuário cadastrado.
 
-Requisito: O usuário deve poder fazer login utilizando o nome de usuário e senha cadastrados.
+- Verificar se os dados do usuário: ID, Nome, Senha e Perfil são carregados corretamente no formulário de edição.
 
-- Verificar se o formulário de login aceita os dados corretos.
+- Verificar se a mensagem de campo obrigatório é exibida em caso de não preenchimento.
 
-- Verificar se o usuário é redirecionado para a página inicial após login bem-sucedido.
+- Verificar se as alterações são gravadas corretamente.
 
-- Verificar se mensagens de erro são exibidas para dados incorretos.
+## RF-007 Exclusão de Dados e Perfil do Usuário
+Requisito: O usuário deve poder excluir o Perfil de um usuário.
+
+- Verificar se a solicitação redirecionará o usuário à página de confirmação para a exclusão.
+
+- Verificar se o perfil de usuário foi removido da lista de Usuários.
+
+- Verificar se não ocorre mais a autenticação do usuário excluído.
+
+<!-- ........................................................................................................................... -->
+
+# TESTES DA SEÇÃO CACHORROS
 
 # RF-006 Adicionar Cachorro
 Requisito: O usuário deve poder adicionar um ou mais cães fornecendo seu nome, nascimento e raça.
@@ -69,7 +94,29 @@ Requisito: O usuário deve poder visualizar as informações sobre o cachorro so
 
 - Verificar a exibição e função de redirecionamento do botão Editar, para esta seção da plataforma.
 
-# RF-008 Registrar Alimentação
+## RF-008 Edição de Informações do Cachorro
+Requisito: O usuário deve poder editar as informações sobre um Cachorro cadastrado.
+
+- Verificar se os dados do cachorro: Nome, Data de Nascimento e Raça são carregados corretamente no formulário de edição.
+
+- Verificar se a mensagem de campo obrigatório é exibida em caso de não preenchimento.
+
+- Verificar se as alterações são gravadas corretamente.
+
+## RF-009 Remoção de Cachorro
+Requisito: O usuário deve poder excluir um Cachorro.
+
+- Verificar se a solicitação redirecionará o usuário à página de confirmação para a exclusão.
+
+- Verificar se o Cachorro foi removido da lista de Cachorros.
+
+- Verificar se não há mais a exibição do nome do cachorro no campo Cachorro da seção de Registrar Alimentação.
+
+<!-- ........................................................................................................................... -->
+
+# TESTES DA SEÇÃO ALIMENTAÇÕES
+
+# RF-010 Registrar Alimentação
 
 Requisito: O sistema deve permitir que o usuário registre a alimentação de um cachorro listado, especificando qual o tipo de
 alimentação foi administrado, a quantidade e sua unidade de medida, data e horário.
@@ -78,7 +125,7 @@ alimentação foi administrado, a quantidade e sua unidade de medida, data e hor
 
 - Verificar se a alimentação é gravada corretamente no sistema.
 
-## RF-009 Exibição do Registro de Alimentação Detalhado
+## RF-011 Exibição do Registro de Alimentação Detalhado
 
 Requisito: Visualização das informações sobre a Alimentação registrada e possível alteração quando solicitada.
 
@@ -86,6 +133,22 @@ Requisito: Visualização das informações sobre a Alimentação registrada e p
 
 - Verificar a exibição e função de redirecionamento do botão Editar, para esta seção da plataforma.
 
+## RF-012 Edição de Registro de Alimentação
+Requisito: O usuário deve poder editar as informações sobre um Registro de Alimentação.
+
+- Verificar se os dados do registro: Cachorro, Tipo de Alimentação, Quantidade, Unidade de Medida e Hora são carregados corretamente no formulário de edição.
+
+- Verificar se a mensagem de campo obrigatório é exibida em caso de não preenchimento.
+
+- Verificar se as alterações do registro são gravadas corretamente.
+
+## RF-013 Exclusão de Registro de Alimentação
+
+Requisito: O usuário deve poder excluir uma Alimentação registrada.
+
+- Verificar se a solicitação redirecionará o usuário à página de confirmação para a exclusão.
+
+- Verificar se a alimentação foi removida da lista de Alimentações.
 
 <!--
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
