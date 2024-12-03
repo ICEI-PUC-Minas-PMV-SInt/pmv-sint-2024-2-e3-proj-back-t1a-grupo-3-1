@@ -63,9 +63,7 @@ alimentação foi administrado, a quantidade e sua unidade de medida, data e hor
 - Verificar se a alimentação é gravada corretamente no sistema.
 
 
-
-<br><br><br><br><br>
-
+<!--
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
 
 Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
@@ -83,3 +81,5 @@ Comente sobre as ferramentas de testes utilizadas.
 > - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
 > - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+
+-->
