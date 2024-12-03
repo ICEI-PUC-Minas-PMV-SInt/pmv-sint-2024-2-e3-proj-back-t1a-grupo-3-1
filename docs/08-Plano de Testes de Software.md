@@ -79,7 +79,7 @@ Requisito: O usuário deve poder excluir o Perfil de um usuário.
 
 # TESTES DA SEÇÃO CACHORROS
 
-## RF-006 Adicionar Cachorro
+## RF-008 Adicionar Cachorro
 
 Requisito: O usuário deve poder adicionar um ou mais cães fornecendo seu nome, nascimento e raça.
 
@@ -89,7 +89,7 @@ Requisito: O usuário deve poder adicionar um ou mais cães fornecendo seu nome,
 
 - Verificar se o adicionar do cachorro teve sucesso indicado pela lista de cachorros e visualização de seus dados.
 
-## RF-007 Exibição de Informações sobre o Cachorro
+## RF-009 Exibição de Informações sobre o Cachorro
 
 Requisito: O usuário deve poder visualizar as informações sobre o cachorro solicitado.
 
@@ -97,7 +97,7 @@ Requisito: O usuário deve poder visualizar as informações sobre o cachorro so
 
 - Verificar a exibição e função de redirecionamento do botão Editar, para esta seção da plataforma.
 
-## RF-008 Edição de Informações do Cachorro
+## RF-010 Edição de Informações do Cachorro
 
 Requisito: O usuário deve poder editar as informações sobre um Cachorro cadastrado.
 
@@ -107,7 +107,7 @@ Requisito: O usuário deve poder editar as informações sobre um Cachorro cadas
 
 - Verificar se as alterações são gravadas corretamente.
 
-## RF-009 Remoção de Cachorro
+## RF-011 Remoção de Cachorro
 
 Requisito: O usuário deve poder excluir um Cachorro.
 
@@ -121,7 +121,7 @@ Requisito: O usuário deve poder excluir um Cachorro.
 
 # TESTES DA SEÇÃO ALIMENTAÇÕES
 
-## RF-010 Registrar Alimentação
+## RF-012 Registrar Alimentação
 
 Requisito: O sistema deve permitir que o usuário registre a alimentação de um cachorro listado, especificando qual o tipo de
 alimentação foi administrado, a quantidade e sua unidade de medida, data e horário.
@@ -130,7 +130,7 @@ alimentação foi administrado, a quantidade e sua unidade de medida, data e hor
 
 - Verificar se a alimentação é gravada corretamente no sistema.
 
-## RF-011 Exibição do Registro de Alimentação Detalhado
+## RF-013 Exibição do Registro de Alimentação Detalhado
 
 Requisito: Visualização das informações sobre a Alimentação registrada e possível alteração quando solicitada.
 
@@ -138,7 +138,7 @@ Requisito: Visualização das informações sobre a Alimentação registrada e p
 
 - Verificar a exibição e função de redirecionamento do botão Editar, para esta seção da plataforma.
 
-## RF-012 Edição de Registro de Alimentação
+## RF-014 Edição de Registro de Alimentação
 
 Requisito: O usuário deve poder editar as informações sobre um Registro de Alimentação.
 
@@ -148,7 +148,7 @@ Requisito: O usuário deve poder editar as informações sobre um Registro de Al
 
 - Verificar se as alterações do registro são gravadas corretamente.
 
-## RF-013 Exclusão de Registro de Alimentação
+## RF-015 Exclusão de Registro de Alimentação
 
 Requisito: O usuário deve poder excluir uma Alimentação registrada.
 
