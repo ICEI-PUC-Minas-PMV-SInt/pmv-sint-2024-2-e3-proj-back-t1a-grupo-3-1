@@ -44,9 +44,23 @@ Requisito: O usuário deve poder fazer login utilizando o nome de usuário e sen
 
 - Verificar se mensagens de erro são exibidas para dados incorretos.
 
+# RF-005 Adicionar Cachorro
+Requisito: O usuário deve poder adicionar um ou mais cães fornecendo seu nome, nascimento e raça.
 
+- Verificar se o formulário de cadastro aceita todos os campos necessários.
 
+- Verificar se mensagens de erro são exibidas para campos obrigatórios não preenchidos.
 
+- Verificar se o adicionar do cachorro teve sucesso indicado pela lista de cachorros e visualização de seus dados.
+
+# RF-006 Registrar Alimentação
+
+Requisito: O sistema deve permitir que o usuário registre a alimentação de um cachorro listado, especificando qual o tipo de
+alimentação foi administrado, a quantidade e sua unidade de medida, data e horário.
+
+- Verificar se o formulário de registro aceita todos os campos necessários.
+
+- Verificar se a alimentação é gravada corretamente no sistema.
 
 
 
