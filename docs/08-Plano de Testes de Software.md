@@ -34,7 +34,15 @@ Requisito: O usuário deve poder se cadastrar fornecendo nome de usuário, tipo 
 
 - Verificar se o cadastro do usuário teve sucesso realizando o login no perfil criado.
 
-# RF-004 Login do Usuário
+## RF-004 Exibção de Informações sobre o Usuário
+
+Requisito: Visualização das informações sobre o Usuário e possível alteração quando solicitada.
+
+- Verificar a exibição dos dados ID do Usuário, Nome de Usuário e Tipo de Perfil(Admin ou User).
+
+- Verificar a exibição e função de redirecionamento do botão Editar, para esta seção da plataforma.
+
+# RF-005 Login do Usuário
 
 Requisito: O usuário deve poder fazer login utilizando o nome de usuário e senha cadastrados.
 
@@ -44,7 +52,7 @@ Requisito: O usuário deve poder fazer login utilizando o nome de usuário e sen
 
 - Verificar se mensagens de erro são exibidas para dados incorretos.
 
-# RF-005 Adicionar Cachorro
+# RF-006 Adicionar Cachorro
 Requisito: O usuário deve poder adicionar um ou mais cães fornecendo seu nome, nascimento e raça.
 
 - Verificar se o formulário de cadastro aceita todos os campos necessários.
@@ -53,7 +61,15 @@ Requisito: O usuário deve poder adicionar um ou mais cães fornecendo seu nome,
 
 - Verificar se o adicionar do cachorro teve sucesso indicado pela lista de cachorros e visualização de seus dados.
 
-# RF-006 Registrar Alimentação
+## RF-007 Exibição de Informações sobre o Cachorro
+
+Requisito: O usuário deve poder visualizar as informações sobre o cachorro solicitado.
+
+- Verificar a exibição dos dados Nome, Raça e Data de Nascimento.
+
+- Verificar a exibição e função de redirecionamento do botão Editar, para esta seção da plataforma.
+
+# RF-008 Registrar Alimentação
 
 Requisito: O sistema deve permitir que o usuário registre a alimentação de um cachorro listado, especificando qual o tipo de
 alimentação foi administrado, a quantidade e sua unidade de medida, data e horário.
@@ -61,6 +77,14 @@ alimentação foi administrado, a quantidade e sua unidade de medida, data e hor
 - Verificar se o formulário de registro aceita todos os campos necessários.
 
 - Verificar se a alimentação é gravada corretamente no sistema.
+
+## RF-009 Exibção do Registro de Alimentação Detalhado
+
+Requisito: Visualização das informações sobre a Alimentação registrada e possível alteração quando solicitada.
+
+- Verificar a exibição do Nome do Cachorro, Tipo de Alimentação, Quantidade e unidade de medida utilizada, e o Dia e Horário do registro.
+
+- Verificar a exibição e função de redirecionamento do botão Editar, para esta seção da plataforma.
 
 
 <!--
