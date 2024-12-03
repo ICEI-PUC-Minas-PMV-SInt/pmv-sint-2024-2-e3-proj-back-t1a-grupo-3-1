@@ -56,6 +56,7 @@ Requisito: Visualização das informações sobre o Usuário e possível altera�
 - Verificar a exibição e função de redirecionamento do botão Editar, para esta seção da plataforma.
 
 ## RF-006 Edição de Informações do Usuário
+
 Requisito: O usuário deve poder editar as informações sobre um Usuário cadastrado.
 
 - Verificar se os dados do usuário: ID, Nome, Senha e Perfil são carregados corretamente no formulário de edição.
@@ -65,6 +66,7 @@ Requisito: O usuário deve poder editar as informações sobre um Usuário cadas
 - Verificar se as alterações são gravadas corretamente.
 
 ## RF-007 Exclusão de Dados e Perfil do Usuário
+
 Requisito: O usuário deve poder excluir o Perfil de um usuário.
 
 - Verificar se a solicitação redirecionará o usuário à página de confirmação para a exclusão.
@@ -77,7 +79,8 @@ Requisito: O usuário deve poder excluir o Perfil de um usuário.
 
 # TESTES DA SEÇÃO CACHORROS
 
-# RF-006 Adicionar Cachorro
+## RF-006 Adicionar Cachorro
+
 Requisito: O usuário deve poder adicionar um ou mais cães fornecendo seu nome, nascimento e raça.
 
 - Verificar se o formulário de cadastro aceita todos os campos necessários.
@@ -95,6 +98,7 @@ Requisito: O usuário deve poder visualizar as informações sobre o cachorro so
 - Verificar a exibição e função de redirecionamento do botão Editar, para esta seção da plataforma.
 
 ## RF-008 Edição de Informações do Cachorro
+
 Requisito: O usuário deve poder editar as informações sobre um Cachorro cadastrado.
 
 - Verificar se os dados do cachorro: Nome, Data de Nascimento e Raça são carregados corretamente no formulário de edição.
@@ -104,6 +108,7 @@ Requisito: O usuário deve poder editar as informações sobre um Cachorro cadas
 - Verificar se as alterações são gravadas corretamente.
 
 ## RF-009 Remoção de Cachorro
+
 Requisito: O usuário deve poder excluir um Cachorro.
 
 - Verificar se a solicitação redirecionará o usuário à página de confirmação para a exclusão.
@@ -116,7 +121,7 @@ Requisito: O usuário deve poder excluir um Cachorro.
 
 # TESTES DA SEÇÃO ALIMENTAÇÕES
 
-# RF-010 Registrar Alimentação
+## RF-010 Registrar Alimentação
 
 Requisito: O sistema deve permitir que o usuário registre a alimentação de um cachorro listado, especificando qual o tipo de
 alimentação foi administrado, a quantidade e sua unidade de medida, data e horário.
@@ -134,6 +139,7 @@ Requisito: Visualização das informações sobre a Alimentação registrada e p
 - Verificar a exibição e função de redirecionamento do botão Editar, para esta seção da plataforma.
 
 ## RF-012 Edição de Registro de Alimentação
+
 Requisito: O usuário deve poder editar as informações sobre um Registro de Alimentação.
 
 - Verificar se os dados do registro: Cachorro, Tipo de Alimentação, Quantidade, Unidade de Medida e Hora são carregados corretamente no formulário de edição.
