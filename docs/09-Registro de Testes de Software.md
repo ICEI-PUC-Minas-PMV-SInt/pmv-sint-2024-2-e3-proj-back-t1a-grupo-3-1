@@ -42,6 +42,26 @@
 |Mensagem de Erro|Exibição de mensagem quando houve campos não preenchidos|Sucesso|
 |Novo Usuário|Usuário criado com os dados informados|Sucesso ao criar perfil de usuário e gravá-lo no banco de dados|
 
+## RF-004 Login do Usuário
+| Teste  |  Resultado  |  Conclusão |
+|--------|-------------|------------|
+|Preenchimento correto dos campos|Campos habilitados e login realizado|Sucesso ao receber e autenticar os dados para login|
+|Preenchimento incorreto dos campos|Autenticação não realizada e exibição de mensagem de erro|Sucesso ao negar acesso e exibir mensagem|
+|Não preenchimento dos campos|Exibição de mensagem em caso de campos não preenchidos|Sucesso ao exibir mensagem|
+
+## RF-005 Adicionar Cachorro
+| Teste  |  Resultado  |  Conclusão |
+|--------|-------------|------------|
+|Preenchimento de Formulário|Campos habilitados e funcionando|Sucesso ao receber dados do cão.|
+|Mensagem de Erro|Exibição de mensagem quando houve campos não preenchidos|Sucesso|
+|Cachorro adicionado|Cachorro adicionado com os dados informados|Sucesso ao adicionar e gravar as informações do cão no banco de dados|
+
+## RF-006 Registrar Alimentação
+| Teste  |  Resultado  |  Conclusão |
+|--------|-------------|------------|
+|Preenchimento de Formulário|Campos habilitados e funcionando|Sucesso ao receber dados do registro.|
+|Alimentação Registrada|Alimentação registrada com os dados informados|Sucesso ao adicionar e gravar o registro de alimentação no banco de dados|
+
 <br><br><br><br><br>
 
 <span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>, <a href="8-Plano de Testes de Software.md"> Plano de Testes de Software</a>
