@@ -4,7 +4,7 @@ Pelo presente projeto tratar-se de desenvolvimento <i>back-end</i>
 não haverá enfoque no escopo estético visual, limitando-se ao básico
 e funcional, como ilustrado a seguir:
 
-# Disposição dos items na tela do navegador
+# Disposição dos itens na tela do navegador
 A tela será dividida em navegação, ao topo da tela, e a funcionalidade da seção acessada, abaixo da navegação (c), ocupando toda a área central necessária.
 Dentro da navegação, ao centro (a) estarão as seções disponíveis do usuário e ao final da tela, à direita (b), o indicador de autenticação, opção de fazer <i>Login</i> ou Sair do perfil.
 
