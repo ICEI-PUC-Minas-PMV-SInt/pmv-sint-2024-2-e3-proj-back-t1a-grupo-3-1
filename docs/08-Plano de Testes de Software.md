@@ -34,7 +34,7 @@ Requisito: O usuário deve poder se cadastrar fornecendo nome de usuário, tipo 
 
 - Verificar se o cadastro do usuário teve sucesso realizando o login no perfil criado.
 
-## RF-004 Exibção de Informações sobre o Usuário
+## RF-004 Exibição de Informações sobre o Usuário
 
 Requisito: Visualização das informações sobre o Usuário e possível alteração quando solicitada.
 
@@ -78,7 +78,7 @@ alimentação foi administrado, a quantidade e sua unidade de medida, data e hor
 
 - Verificar se a alimentação é gravada corretamente no sistema.
 
-## RF-009 Exibção do Registro de Alimentação Detalhado
+## RF-009 Exibição do Registro de Alimentação Detalhado
 
 Requisito: Visualização das informações sobre a Alimentação registrada e possível alteração quando solicitada.
 
