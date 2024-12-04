@@ -1,6 +1,47 @@
 # Plano de Testes de Usabilidade
 
-O teste de usabilidade permite avaliar a qualidade da interface com o usuário da aplicação interativa. O Plano de Testes de Software é gerado a partir da especificação do sistema e consiste em casos de testes que deverão ser executados quando a implementação estiver parcial ou totalmente pronta.
+Os testes de usabilidade serão realizados para garantir que a interface do usuário seja intuitiva e fácil de usar.
+
+## Objetivo dos Testes de Usabilidade:
+- Avaliar a qualidade e a eficiência da interação do usuário com o site.
+- Identificar problemas de usabilidade e possíveis melhorias na interface.
+
+## Público-Alvo
+- Pessoas que tenham um ou mais cães sob sua tutela.
+- Pet Shops
+- Clínicas Veterinárias
+- Hotéis Para Cães
+
+## Cenários de Teste
+
+### Sistema de login
+
+<b>Caso de Teste - 001: Criar Conta</b>
+
+Passo 1: Acessar a página de Usuários e clicar em "Criar Usuário".
+
+Passo 2: Inserir Nome, Senha e selecionar Tipo de Perfil (User/Admin).
+
+Passo 3: Clicar no botão "Criar".
+
+Resultado Esperado: Mensagem "Inclusão do usuário na lista de usuários".
+
+<br>
+
+<b>Caso de Teste - 002: Acessar Conta</b>
+
+Passo 1: Acessar a página de Login através do botão "Login", situado ao canto superior direito da página.
+
+Passo 2: Inserir Nome e Senha de usuário.
+
+Passo 3: Clicar no botão "Acessar".
+
+Resultado Esperado: Redirecionamento para a página do usuário, com o texto "Olá, <Nome do Usuário>" na área do botão Login.
+
+
+
+
+<!-- O teste de usabilidade permite avaliar a qualidade da interface com o usuário da aplicação interativa. O Plano de Testes de Software é gerado a partir da especificação do sistema e consiste em casos de testes que deverão ser executados quando a implementação estiver parcial ou totalmente pronta.
 
 As referências abaixo irão auxiliá-lo na geração do artefato "Plano de Testes de Usabilidade".
 
@@ -9,3 +50,4 @@ As referências abaixo irão auxiliá-lo na geração do artefato "Plano de Test
 > - [Teste de usabilidade: tudo o que você precisa saber! | by Jon Vieira | Aela.io | Medium](https://medium.com/aela/teste-de-usabilidade-o-que-voc%C3%AA-precisa-saber-39a36343d9a6/)
 > - [Planejando testes de usabilidade: o que (e o que não) fazer | iMasters](https://imasters.com.br/design-ux/planejando-testes-de-usabilidade-o-que-e-o-que-nao-fazer/)
 > - [Ferramentas de Testes de Usabilidade](https://www.usability.gov/how-to-and-tools/resources/templates.html)
+-->
