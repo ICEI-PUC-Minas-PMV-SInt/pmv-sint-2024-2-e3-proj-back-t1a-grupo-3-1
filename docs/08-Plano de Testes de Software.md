@@ -1,7 +1,7 @@
 # Plano de Testes de Software
 
 # Testes de Requisitos Funcionais
-Serão realizados os testes funcionais como segue:
+Serão realizados os testes para requisitos funcionais como segue:
 
 # TESTES DE CONTROLE DE ACESSO
 Nestes testes pretende-se evidenciar a restrição e permissão de acesso das seções citadas a seguir.
@@ -155,6 +155,16 @@ Requisito: O usuário deve poder excluir uma Alimentação registrada.
 - Verificar se a solicitação redirecionará o usuário à página de confirmação para a exclusão.
 
 - Verificar se a alimentação foi removida da lista de Alimentações.
+
+# Testes de Requisitos Não Funcionais
+Serão realizados os testes para requisitos não funcionais como segue:
+
+## RNF-001 Criptografia de senha
+
+Requisito: A plataforma deverá criptografar a senha no momento de criação da conta do usuário, sendo gravada no Banco de Dados já criptografada.
+
+- Verificar se as senhas, no banco de dados do SQL Server, estão criptografadas.
+
 
 <!--
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
