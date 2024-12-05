@@ -40,19 +40,7 @@ Resultado Esperado: Redirecionamento para a página do usuário, com o texto "Ol
 
 <br>
 
-Caso de Teste - 003: Criptografia de senha
-
-Passo 1: Acessar no aplicativo SQL Server, o banco de dados conectado ao presente projeto.
-
-Passo 2: Executar o comando ```SELECT Senha FROM Usuarios```.
-
-Passo 3: Verificar se as senhas foram criptografadas.
-
-Resultado Esperado: O retorno da pesquisa exibirá a coluna de senhas da tabela de Usuários contendo as informações em formato ilegível.
-
-<br>
-
-<b>Caso de Teste - 002: Sair da Conta</b>
+<b>Caso de Teste - 003: Sair da Conta</b>
 
 Passo 1: Fazer o Logout da conta através do botão "Sair", situado ao canto superior direito da página.
 
