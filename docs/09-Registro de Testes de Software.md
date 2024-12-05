@@ -134,6 +134,14 @@
 |Solicitação de Remoção|Exibição da página de confirmação de exclusão|Sucesso ao redirecionar à página|
 |Certificar que o registro foi Removido|Registro de Alimentação não foi mais exibido na lista de Alimentações|Sucesso ao remover o registro|
 
+# Testes de Requisitos Não Funcionais
+
+## RNF-001 Criptografia de senha
+| Teste  |  Resultado  |  Conclusão |
+|--------|-------------|------------|
+|Criptografar Senhas|Senhas Criptografadas verificado diretamente no Banco de Dados|Sucesso ao criptografar as senhas|
+|| <img src="img/Prova de Criptografia.jpg" width="400"> ||
+
 <!--
 
 <span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>, <a href="8-Plano de Testes de Software.md"> Plano de Testes de Software</a>
