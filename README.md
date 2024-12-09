@@ -12,7 +12,6 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-* Dhenis Cruz Madeira
 * Glauber Rodrigues Lanna e Silva
 
 ## Orientador
